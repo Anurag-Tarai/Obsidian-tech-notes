@@ -12,6 +12,7 @@ spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 ```
 
 ##### JWT dependencies : imp, api, jackson : used 0.11.5 because in 12 a lot deprecated what he used
+`More Details`- [[3-JWT Auth]]
 ```xml
 <dependency>  
     <groupId>io.jsonwebtoken</groupId>  
