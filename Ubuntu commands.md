@@ -1,0 +1,1 @@
+kill intellij - pkill -f intellij

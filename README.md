@@ -1,5 +1,5 @@
 
-# Obsidian Notes Repository
+# Obsidian Tech Notes Repository
 This repository contains my personal notes on various computer science topics, organized using Obsidian. The notes are designed to be clear, simple, and concise for quick reference and learning.
 
 ### Folder Structure
