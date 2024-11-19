@@ -12,3 +12,13 @@ Morning 3 Hour problem solving
 1. Daily question + 1 Easy + 1 Medium + Striver sheet
 2. Weekly 2 contest : 4 questions
 `Weekly = 20+ questions`
+
+
+# Week 3
+##### Day 1 : 10 November 2024
+1. 
+	- Time -
+2. 
+	- Time - 
+3. 
+	- Time -

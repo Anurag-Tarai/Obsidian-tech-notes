@@ -33,5 +33,4 @@ server:
 ./mvnw package
 JournalApplication/target$ java -jar JournalAppPractice-0.0.1-SNAPSHOT.jar
 
-
 ```

@@ -22,3 +22,12 @@
 }
 
 ```
+- Developed a comprehensive **project management platform** for efficient **project creation**, **user invitations**, and **issue tracking** with integrated **project-based chat**.
+    
+- Utilized **React**, **Redux**, **Tailwind CSS**, and **Shaden UI** Library for a responsive and dynamic frontend.
+    
+- Built the backend with **Spring Boot**, **Spring Security**, **JWT** for secure authentication, and **Spring Starter Mail** for **email notifications**.
+    
+- Enabled **real-time collaboration** and streamlined task management to boost **workflow efficiency** and **productivity**.
+    
+- **Technology used** - Spring Boot | Spring Security | JWT | Spring Starter Mail | MySQL | React | Redux | Tailwind CSS | Shaden | UI Library

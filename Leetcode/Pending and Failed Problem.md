@@ -20,7 +20,9 @@
 `November 3 - November 9`
 
 #### Pending...
-2. Day 2 - 3rd question not done
+2. Day 3 - 3rd question not done
+3. Day 4 - all not done
+4. Day 5 - 3rd question not done
 
 ## Failed
 1. `Day 1 - 3 Nov`
@@ -29,4 +31,22 @@
 2. `Day 2 - 4 Nov`
 	1. 1st - [66. Plus One](https://leetcode.com/problems/plus-one/)
 	2. 2nd - [3163. String Compression III](https://leetcode.com/problems/string-compression-iii/)
+5. `Day 5 - 7 Nov`
+	1. 1st - [888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
+	2. 2nd  - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+6. `Day 6 - 8 Nov`
+	1. 2nd -  [733. Flood Fill](https://leetcode.com/problems/flood-fill/)
+	
+# Week 3
+`November 10 - November 16`
 
+#### Pending...
+1. Day 3 - all pending
+
+## Failed
+1. .` Day 1 - 10 Nov`
+	1. 2nd question - [3238. Find the Number of Winning Players](https://leetcode.com/problems/find-the-number-of-winning-players/)
+
+4. Day 4 - 13 Nov
+	1. 1st - [2099. Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/)
+	2. 

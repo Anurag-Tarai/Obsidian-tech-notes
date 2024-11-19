@@ -1,0 +1,2 @@
+# HttpStatus.NO_CONTENT
+The issue lies in the `HttpStatus.NO_CONTENT` response status. According to HTTP standards, a `204 No Content` response indicates that the request was successful, but there is no content to send back to the client.
