@@ -16,6 +16,11 @@ sb.append(' ');      // Adds a space
 sb.append("World");  // Adds "World"
 System.out.println(sb);  // Output: "Hello World"
 
+// Empty the sb
+sb.setLength(0); // Clears the StringBuilder and assigns an empty string
+
+// To find the length
+sb.length();
 
 // Insert
 StringBuilder sb = new StringBuilder("HelloWorld");

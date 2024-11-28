@@ -1,0 +1,1 @@
+**UIDAI** is **Unique Identification Authority of India** provide service to verify the adhara.

@@ -1,0 +1,3 @@
+##### Why you started with Spring Boot instead of learning advanced Java concepts like JDBC first, you can emphasize the following points:
+
+I started with Spring Boot to quickly apply Java in real-world applications. It helped me learn important concepts like dependency injection, REST APIs, and security. This experience gave me a better understanding of how advanced Java concepts fit into real-world projects. I plan to dive deeper into topics like JDBC for database management, Servlets for custom web apps, and core concepts like multithreading, design patterns, JVM internals, and performance optimization. This will help me write more efficient and scalable applications.
