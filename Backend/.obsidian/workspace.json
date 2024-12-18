@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "1211ce9516fee296",
+    "type": "split",
+    "children": [
+      {
+        "id": "c48d01049ea633c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39972edf4bb3a778",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Digest/21  JUnit Testing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "21  JUnit Testing"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ee09cedb5156ec9",
+    "type": "split",
+    "children": [
+      {
+        "id": "43364cd66ccccd69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32e2ad7d01ddc31d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "27b22974ce9a81b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ecac0a2d7cc089db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0807d40697a860e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "134774de9b34b1ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d660824b1e7a515",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2cefecc0777d6966",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "18dfc77d7af30a86",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cfaf7a2df539757f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "32e2ad7d01ddc31d",
+  "lastOpenFiles": [
+    "spring-boot/Questions and Answers/Why we inject service interface instead of it's implementation class?.md",
+    "spring-boot/Questions and Answers/01_Contents 1.md",
+    "spring-boot/Fundamentals/security/Role Based Authorization.md",
+    "spring-boot/Fundamentals/HTTP Status.md",
+    "spring-boot/Fundamentals/security/3-JWT Auth.md",
+    "spring-boot/Fundamentals/security/2-Basic Auth.md",
+    "spring-boot/Fundamentals/security/1-Default Auth.md",
+    "spring-boot/Fundamentals/security/01_Contents.md",
+    "Engineering Digest/21  JUnit Testing.md",
+    "Engineering Digest/01_Contents.md"
+  ]
+}
