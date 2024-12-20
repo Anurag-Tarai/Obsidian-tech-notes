@@ -212,3 +212,32 @@ class PlusOne {
   }
 }
 ```
+
+```java
+public class PrimeNumbersRecursion {
+
+    public static void main(String[] args) {
+        int N = 20; // Example: You can set N to any value
+        System.out.println("Prime numbers less than or equal to " + N + ":");
+        printPrimes(N);
+    }
+
+    // Function to print all prime numbers less than or equal to N
+    static void printPrimes(int N) {
+        if (N < 2) return; // Base case: No prime number less than 2
+        printPrimes(N - 1); // Recursive call for N-1
+        if (isPrime(N, 2)) {
+            System.out.print(N + " ");
+        }
+    }
+
+    // Helper function to check if a number is prime using recursion
+    static boolean isPrime(int num, int divisor) {
+        if (num <= 2) return num == 2; // 2 is prime; numbers <= 1 are not
+        if (num % divisor == 0) return false; // Divisible by current divisor
+        if (divisor * divisor > num) return true; // No divisors found
+        return isPrime(num, divisor + 1); // Check next divisor
+    }
+}
+
+```
