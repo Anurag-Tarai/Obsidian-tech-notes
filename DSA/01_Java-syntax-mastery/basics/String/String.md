@@ -84,3 +84,21 @@ String str = "Hello,World";
 String[] parts = str.split(",");
 System.out.println(parts[0]); // Output: Hello
 ```
+### Replace
+```java
+String str = "Hello";
+System.out.println(str.replace('l', 'p')); // Output: Heppo
+System.out.println(str.replace("Hello", "Hi")); // Output: Hi
+```
+### Replace All (regular expression)
+```java
+String str ="hello! anurag.";
+System.out.println(str.replace("[ !.]",""));// helloanurag
+```
+
+##### replace() Vs replaceAll()
+```java
+	String str ="hello! anurag.";
+    System.out.println(str.replace(" ", "-"));// hello!-anurag.
+    System.out.println(str.replaceAll("[ !.]", "-"));// hello--anurag-
+```
