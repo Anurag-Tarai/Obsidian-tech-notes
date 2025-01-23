@@ -1,9 +1,4 @@
-## 20th Dec and 21th Dec
 
-# 20 Dec : 3 am to 7 am : 4 hours
-
- 3 Hours : Practice Questions Like these
- if 2nd Half then first half 1 hour : practice SQL
 ### **Array Questions**
 
 1. Write a program to find the largest and smallest numbers in an array.

@@ -25,6 +25,7 @@
     A Full Outer Join retrieves all rows from both tables, with `NULL` for non-matching rows.
     
     `SELECT columns   FROM Table1   FULL OUTER JOIN Table2   ON Table1.column = Table2.column;`
+    MySql does not support full outer join : emulated using unio - left and right
     
 7. **What is a Cross Join?**  
     A Cross Join produces a Cartesian product, combining each row from the first table with every row in the second table.
